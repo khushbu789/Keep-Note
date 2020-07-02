@@ -1,0 +1,12 @@
+C:\Users\GSP-LAP-009\source\repos\KeepNote\bin\Debug\KeepNote.exe.config
+C:\Users\GSP-LAP-009\source\repos\KeepNote\bin\Debug\KeepNote.exe
+C:\Users\GSP-LAP-009\source\repos\KeepNote\bin\Debug\KeepNote.pdb
+C:\Users\GSP-LAP-009\source\repos\KeepNote\obj\Debug\KeepNote.keep_note.resources
+C:\Users\GSP-LAP-009\source\repos\KeepNote\obj\Debug\KeepNote.Properties.Resources.resources
+C:\Users\GSP-LAP-009\source\repos\KeepNote\obj\Debug\KeepNote.csproj.GenerateResource.cache
+C:\Users\GSP-LAP-009\source\repos\KeepNote\obj\Debug\KeepNote.csproj.CoreCompileInputs.cache
+C:\Users\GSP-LAP-009\source\repos\KeepNote\obj\Debug\KeepNote.exe
+C:\Users\GSP-LAP-009\source\repos\KeepNote\obj\Debug\KeepNote.pdb
+C:\Users\GSP-LAP-009\source\repos\KeepNote\bin\Debug\Db_reminder.mdf
+C:\Users\GSP-LAP-009\source\repos\KeepNote\bin\Debug\Db_reminder_log.ldf
+C:\Users\GSP-LAP-009\source\repos\KeepNote\obj\Debug\KeepNote.csprojAssemblyReference.cache
